@@ -6,5 +6,6 @@
 }
 
 li {
+    /* This fixes the issue with bullets being on the left as if the text was aliged to the left*/
     list-style-position: inside;
 }
