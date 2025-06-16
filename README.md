@@ -1,3 +1,3 @@
 # Swirl
 
-This is for the Swirl YSWS
+This is for the Swirl <i>YSWS</i>
